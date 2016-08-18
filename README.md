@@ -27,7 +27,7 @@ This app has no explicit Spring Boot controllers defined!
 
 It makes use of the built-in paths from the Stormpath Spring Boot Starter integration (like `/login`, `/register`, and `/forgot`).
 
-The included Angular app is served as a set of static pages that make use of the [Stormpath Angular SDK]().
+The included Angular app is served as a set of static pages that make use of the [Stormpath Angular SDK](https://github.com/stormpath/stormpath-sdk-angularjs).
 
 The Angular app makes GET requests to the Spring Boot app to get view models for rendering, such as the login and register models.
 It also makes POST requests to the Spring Boot app for perform operations like logging in and registering.

@@ -30,13 +30,13 @@
         <logback.version>1.1.7</logback.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.boot.version>1.4.0.RELEASE</spring.boot.version>
-        <stormpath.version>1.0.2</stormpath.version>
+        <stormpath.version>1.0.3</stormpath.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>com.stormpath.spring</groupId>
-            <artifactId>stormpath-thymeleaf-spring-boot-starter</artifactId>
+            <artifactId>stormpath-webmvc-spring-boot-starter</artifactId>
             <version>${stormpath.version}</version>
         </dependency>
         <dependency>

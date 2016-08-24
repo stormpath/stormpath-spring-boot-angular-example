@@ -1,7 +1,7 @@
 {
   "name": "Spring Boot + Angular Example",
   "description": "With Stormpath's Spring Boot WebMVC integration and our Angular integration, writing Stormpath enable SPAs is a snap!",
-  "repository": "",
+  "repository": "https://github.com/stormpath/stormpath-spring-boot-angular-example/tree/master",
   "keywords": ["spring boot", "social", "identity", "security", "authentication"],
   "success_url": "/",
   "env": {

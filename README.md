@@ -1,6 +1,10 @@
 # stormpath-spring-boot-angular-example
 
-Simple web app integrated with Stormpath supporting an Angular rich client UI.
+This is a simple web app integrated with Stormpath supporting an Angular rich client UI.
+
+You can see the example live [here](https://stormpath-spring-boot-angular.herokuapp.com/).
+
+You can even deploy it to your own Heroku account: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
 ## Setup
 
